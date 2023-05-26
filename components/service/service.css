@@ -1,0 +1,39 @@
+.service {
+    padding: 100px 180px;
+}
+
+.service h2 {
+    margin-top: 80px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 68px;
+    line-height: 94px;
+    align-items: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.item {
+    border: 4px solid #D251FF;
+    border-radius: 50px;
+    padding: 35px 85px;
+
+}
+
+
+.item h3 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    align-items: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-top: 30px;
+}

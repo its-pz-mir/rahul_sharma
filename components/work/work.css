@@ -1,0 +1,57 @@
+.work {
+    margin-top: 80px;
+    padding: 100px 180px;
+    width: 100%;
+    height: 775px;
+    background: linear-gradient(90.01deg, #8B1EF8 -36.74%, #D251FF 73.24%);
+}
+
+.work h2 {
+    margin-top: 40px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 68px;
+    line-height: 94px;
+    align-items: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.slide {
+    width: 100%;
+    margin-top: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item1 {
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.3);
+    border: 2px solid #FFFFFF;
+    backdrop-filter: blur(2px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 50px;
+    margin-right: 40px;
+
+}
+
+.item1:last-child {
+    margin-right: 0;
+    /* Remove margin from the last item1 div */
+}
+
+.item1 img {
+    width: 400px;
+    height: 250px;
+}
+
+.item1 p {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 38px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
