@@ -1,16 +1,16 @@
 .service {
-    padding: 100px 180px;
+    padding: 70px 130px;
 }
 
 .service h2 {
-    margin-top: 80px;
     font-style: normal;
     font-weight: 600;
-    font-size: 68px;
+    font-size: 48px;
     line-height: 94px;
     align-items: center;
     letter-spacing: 0.05em;
     color: #000000;
+    text-transform: uppercase;
 }
 
 .items {
