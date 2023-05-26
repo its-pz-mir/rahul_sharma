@@ -24,8 +24,8 @@ const Header = () => {
             <div className='hero'>
                 <div className="about">
                     <div className="about-text">
-                        <h2>Hi I'm Rahul</h2>
-                        <p> Hi, I'm a UI/UX <br /> & Web Designer from India</p>
+                        <h2>Hi I am Rahul</h2>
+                        <p> Hi, I am a UI/UX <br /> & Web Designer from India</p>
                     </div>
                     <div className="about-img">
                         <img src="./me.png" alt="About" />
